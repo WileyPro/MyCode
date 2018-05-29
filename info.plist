@@ -1,52 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>HXiaoWei.ipa</key>
+		<key>items</key>
 		<array>
 			<dict>
-				<key>architectures</key>
-				<array>
-					<string>armv7</string>
-					<string>arm64</string>
-				</array>
-				<key>certificate</key>
-				<dict>
-					<key>SHA1</key>
-					<string>7CCD74B7D36992294DFA46C0B7D948C102E88B33</string>
-					<key>dateExpires</key>
-					<string>2019/5/5</string>
-					<key>type</key>
-					<string>iOS Distribution</string>
-				</dict>
-				<key>entitlements</key>
-				<dict>
-					<key>application-identifier</key>
-					<string>5GL3549A48.cn.yonghui.huikaidian</string>
-					<key>aps-environment</key>
-					<string>production</string>
-					<key>com.apple.developer.team-identifier</key>
-					<string>5GL3549A48</string>
-					<key>get-task-allow</key>
-					<false/>
-				</dict>
-				<key>name</key>
-				<string>HXiaoWei.app</string>
-				<key>profile</key>
-				<dict>
-					<key>UUID</key>
-					<string>85fb61e4-265a-4c64-9de4-3c40c50e544b</string>
-					<key>name</key>
-					<string>iOS Team Ad Hoc Provisioning Profile: cn.yonghui.huikaidian</string>
-				</dict>
-				<key>team</key>
-				<dict>
-					<key>id</key>
-					<string>5GL3549A48</string>
-					<key>name</key>
-					<string>Chongqing Yonghui Small Loans Co. Ltd.</string>
-				</dict>
-
 				<key>assets</key>
 				<array>
 					<dict>
@@ -59,15 +16,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>证书ID</string>
-					<key>bundle-version</key>
+					<string>证书ID</string><key>bundle-version</key>
 					<string>6.3.6</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>惠小微安装包</string>
+					<string>下载显示名称</string>
 				</dict>
-
 			</dict>
 		</array>
 	</dict>
